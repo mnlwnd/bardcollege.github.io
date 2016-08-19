@@ -49,7 +49,7 @@ var rules = {
     "What feelings do you have when you apologize",
   ],
   "~*x I remember ~*y": [
-    "Oh, I hate ~y?",
+    "Oh, I hate ~y.",
     "Does thinking of ~y bring deep sadness?",
     "What else do you remember?",
     "Why do you recall ~y when you try to sleep at night?",
@@ -182,7 +182,7 @@ var rules = {
     "What if you could ~y?",
   ],
   "~*x I feel ~*y": [
-    "Do you often feel ~y?"
+    "I never feel ~y. Must be something wrong with you."
   ],
   "~*x I felt ~*y": [
     "What other feelings do you have?"
